@@ -35,6 +35,10 @@ a:hover {
   gap: 0.5rem;
 }
 
+#menu:hover{
+  color: aqua;
+}
+
 #menu a {
   display: block;
   padding: 0.5rem;
